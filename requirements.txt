@@ -1,0 +1,9 @@
+import pandas
+numpy
+scikit-learn
+nltk
+plotly
+kagglehub
+num2words
+contractions
+re
