@@ -6,4 +6,3 @@ plotly
 kagglehub
 num2words
 contractions
-re
