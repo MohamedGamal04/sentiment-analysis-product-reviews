@@ -21,4 +21,4 @@ If you don't have a requirements.txt, install core packages:
 Run required NLTK downloads in the notebook (cells include downloads for punkt, stopwords, wordnet, averaged_perceptron_tagger).
 
 ## Acknowledgments
-- The dataset used in this project is sourced from [Kaggle]([https://www.imdb.com/](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)).
+- The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
