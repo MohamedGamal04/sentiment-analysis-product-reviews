@@ -11,6 +11,7 @@ import nltk
 
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('punkt_tab')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
 
@@ -221,4 +222,5 @@ st.markdown(
     "<p>Built with Streamlit | Powered by Logistic Regression & TF-IDF</p>"
     "</div>",
     unsafe_allow_html=True
+
 )
