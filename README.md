@@ -2,7 +2,7 @@
 This project performs sentiment analysis on a dataset of 50,000 movie reviews from IMDB. The goal is to classify the reviews as positive or negative using various machine learning techniques.
 
 ## Requirements (recommended)
-- Python 3.8+
+- Python 3.9.23
 - numpy, pandas, scikit-learn
 - nltk, num2words, contractions
 - plotly
