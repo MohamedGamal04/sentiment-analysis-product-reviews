@@ -1,8 +1,8 @@
-pandas
-numpy
-scikit-learn
-nltk
-plotly
-kagglehub
-num2words
-contractions
+pandas==2.3.3
+numpy==2.3.4
+scikit-learn==1.7.2
+nltk==3.9.2
+plotly==6.3.1
+kagglehub==0.3.13
+num2words==0.5.14
+contractions==0.1.73
