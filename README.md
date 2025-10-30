@@ -2,6 +2,8 @@
 
 This project implements a sentiment analysis system for product reviews using machine learning techniques. It focuses on classifying reviews as positive or negative based on their textual content with a Logistic Regression model trained on a large dataset of movie reviews.
 
+Live demo : https://sentiment-analysis-appuct-reviews-ck8msy2kqid2jinfbhv259.streamlit.app/
+
 ## Features
 
 - Text preprocessing including contraction expansion, stopword removal, lemmatization, and number conversion
@@ -15,7 +17,7 @@ This project implements a sentiment analysis system for product reviews using ma
 
 - `model.pkl` `vectorizer.pkl` - model and vectorizer files
 - `Sentiment Analysis on Product Reviews.ipynb` - Jupyter Notebook containing preprocessing, training, and evaluation pipeline
-- `app.py` - Streamlit application script for live sentiment analysis (create separately)
+- `app.py` - Streamlit application script for live sentiment analysis
 - `requirements.txt` - Required Python packages
 - `README.md` - Project overview and usage instructions
 
