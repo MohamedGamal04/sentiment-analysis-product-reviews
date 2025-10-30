@@ -3,7 +3,7 @@ This project performs sentiment analysis on a dataset of 50,000 movie reviews fr
 
 ## Requirements (recommended)
 - Python 3.9.23
-- numpy, pandas, scikit-learn
+- pandas, scikit-learn
 - nltk, num2words, contractions
 - plotly
 
